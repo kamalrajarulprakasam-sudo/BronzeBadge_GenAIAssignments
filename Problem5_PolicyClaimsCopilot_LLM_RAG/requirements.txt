@@ -1,0 +1,19 @@
+# Problem 5: Policy & Claims Copilot - LLM + RAG System
+# Install all dependencies with: pip install -r requirements.txt
+
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-openai>=0.0.5
+openai>=1.0.0
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+pypdf>=3.0.0
+python-dotenv>=1.0.0
+tiktoken>=0.5.0
+chromadb>=0.4.0
+gradio>=4.0.0
+transformers>=4.35.0
+torch>=2.0.0
+jupyter>=1.0.0
+notebook>=6.4.0
+ipykernel>=6.0.0
